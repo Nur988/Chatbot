@@ -1,0 +1,33 @@
+    .header {
+        border: 1px solid #ccc;
+        width: 100%;
+        margin-top: 2px;
+        height: 10%;
+        border-bottom: none;
+        display: inline-block;
+        background-color: rgb(69, 77, 80);
+        color: white;
+        text-align: center;
+        font-weight: bold;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        border-top-left-radius: 0.5pc;
+        border-top-right-radius: 0.5pc;
+    }
+    
+    .text {
+        width: 100%;
+        border-top-color: rgb(22, 18, 18);
+        border-radius: 0.5pc;
+        margin: auto;
+        font-size: 16px;
+    }
+    
+    .main {
+        display: block;
+        position: fixed;
+        bottom: 5;
+        height: 65%;
+        width: 50%;
+        right: 100px;
+    }
